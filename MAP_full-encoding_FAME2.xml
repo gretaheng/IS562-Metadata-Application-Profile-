@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:dc="http://www.w3.org/2001/XMLSchema-instance" xmlns:TEI="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:CDWA="http://www.getty.edu/CDWA" xmlns:PREMIS="http://www.loc.gov/premis/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd
+    https://www.dublincore.org/schemas/xmls/qdc/2008/02/11/simpledc.xsd
+    http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd
+    http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
+   
+    <mets:metsHdr ID="FAME2" CREATEDATE="2019-12-13T00:00:00">
+        <mets:agent ROLE="CREATOR">
+            <mets:name>Kaylen Dwyer</mets:name>
+        </mets:agent>
+        <mets:agent ROLE="EDITOR">
+            <mets:name>Annabel Pinkney</mets:name>
+        </mets:agent>
+        <mets:agent ROLE="EDITOR">
+            <mets:name>Gillian Dubin</mets:name>
+        </mets:agent>
+        <mets:agent ROLE="EDITOR">
+            <mets:name>Yohta Shimizu</mets:name>
+        </mets:agent>
+        <mets:agent ROLE="EDITOR">
+            <mets:name>Greta Heng</mets:name>
+        </mets:agent>
+    </mets:metsHdr>
+    
+    
+    <mets:dmdSec ID="FAME2_PHYS01_DMD1">
+        <mets:mdWrap MDTYPE="DC" MDTYPEVERSION="1.1">
+            <mets:xmlData>
+                <dc:title>THE TRIVMPHS OF FAME and HONOVR OR THE NOBLE ACcompliſh’d ſolemnity, full of Coſt, Art and ſtate, at the Inauguration and Eſtabliſment of the true worthy and right nobly minded ROBERT PARKHVRST, into the Right Honourable office of Lord Maior of LONDON. The particularities of every Invention in all the Pageants, Shewes, and Triumphs both by Water and Land, are here following fully ſet downe, being all performed by the Loves, Liberall Coſts, and charges of the Right Worſhipfull and worthy Brother-hood of the Cloth-workers the 29 of October 1634.</dc:title>
+                <dc:date>1634</dc:date>
+                <dc:type>Physical Object</dc:type>
+                <dc:source>University of Manchester, John Rylands Library Special Collections, Rylands Collection</dc:source>
+                <dc:identifier>call: 10176.1</dc:identifier>
+                <dc:identifier>call: 9912106164401631</dc:identifier>
+                <dc:identifier>STC: 23808</dc:identifier>
+                <dc:creator>Taylor, John</dc:creator>
+                <dc:language>English</dc:language>
+                <dc:relation>Physical bound codex, represented in (1) microfilm ID=FAME2_DIG01, (2) scan of the micro film ID="FAME2_DIG02, and (3) a digitization ID="FAME2_DIG03"</dc:relation>        
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    
+    <mets:dmdSec ID="FAME2_PHYS01_DMD2">
+        <mets:mdWrap MDTYPE="OTHER" MDTYPEVERSION="5.0" OTHERMDTYPE="TEI">
+            <mets:xmlData>
+                <TEI:teiHeader>
+                    <TEI:fileDesc>
+                        <TEI:titleStmt>
+                            <TEI:title>Metadata for the Triumphs of Fame and Honour, John Rylands University Library copy</TEI:title>
+                            <TEI:respStmt>
+                                <TEI:resp ref="molresp:com">Compiler<date when="2019"/></TEI:resp>
+                                <TEI:name ref="mol:DWYE1">Kaylen Dwyer</TEI:name>
+                            </TEI:respStmt>
+                            <TEI:respStmt>
+                            <TEI:resp ref="molresp:com">Compiler<date when="2019"/></TEI:resp>
+                            <TEI:name ref="mol:PINK1">Annabel Pinkney</TEI:name>
+                            </TEI:respStmt>
+                            <TEI:respStmt>
+                                <TEI:resp ref="molresp:com">Compiler<date when="2019"/></TEI:resp>
+                                <TEI:name ref="mol:DUBI1">Gillian Dubin</TEI:name>
+                            </TEI:respStmt>
+                            <TEI:respStmt>
+                                <TEI:resp ref="molresp:com">Compiler<date when="2019"/></TEI:resp>
+                                <TEI:name ref="mol:HENG1">Greta Heng</TEI:name>
+                            </TEI:respStmt>
+                            <TEI:respStmt>
+                                <TEI:resp ref="molresp:com">Compiler<date when="2019"/></TEI:resp>
+                                <TEI:name ref="mol:SHIM1">Yohta Shimizu</TEI:name>
+                            </TEI:respStmt>
+                        </TEI:titleStmt>
+                        <TEI:publicationStmt>
+                            <TEI:p>This is a metadata record produced as an exemplar of the TEI MsDesc Application Profile.</TEI:p>
+                        </TEI:publicationStmt>
+                        <TEI:sourceDesc>
+                            <TEI:p>Metadata compiled by Kaylen Dwyer, Annabel Pinkney, Gillian Dubin, Greta Heng, and Yohta Shimizu.</TEI:p>
+                        </TEI:sourceDesc>
+                    </TEI:fileDesc>
+                </TEI:teiHeader>
+                
+                <TEI:msDesc>
+                    <TEI:msIdentifier>
+                        <TEI:placeName><TEI:settlement>Manchester</TEI:settlement>,
+                            <TEI:country>United Kingdom</TEI:country></TEI:placeName>
+                        <TEI:institution>University of Manchester</TEI:institution>
+                        <TEI:repository>John Rylands Library Special Collections</TEI:repository>
+                        <TEI:collection>Rylands Collection</TEI:collection>
+                        <TEI:idno type="call">10176.1</TEI:idno>
+                    </TEI:msIdentifier>      
+                    <TEI:msContents>
+                        <TEI:msItem>
+                            <TEI:msItemStruct>
+                                <TEI:author ref="mol:TAYL2">John Taylor</TEI:author>
+                                <TEI:title type="main">THE TRIVMPHS OF FAME and HONOVR OR THE NOBLE ACcompliſh’d ſolemnity, full of Coſt, Art and ſtate, at the Inauguration and Eſtabliſment of the true worthy and right nobly minded <TEI:name ref="mol:PARK7">ROBERT PARKHVRST</TEI:name>, into the Right Honourable office of <TEI:name ref="mol:PARK7">Lord Maior</TEI:name> of <TEI:name ref="mol:LOND5">LONDON</TEI:name>. The particularities of every Invention in all the Pageants, Shewes, and Triumphs both by Water and Land, are here following fully ſet downe, being all performed by the Loves, Liberall Coſts, and charges of the Right Worſhipfull and worthy Brother-hood of the <TEI:name type="org" ref="mol:CLOT2">Cloth-workers</TEI:name> the <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1634-10-29">29 of October 1634.</TEI:date></TEI:title>
+                                <TEI:title type="alt">The Trivmps Of Fame and Honovr</TEI:title>
+                                <TEI:title type="alt">The Triumphs Of Fame and Honour</TEI:title>
+                                <TEI:textLang mainLang="eng-GB">English</TEI:textLang>
+                            </TEI:msItemStruct>
+                            <TEI:docImprint>¶ Imprinted at <TEI:pubPlace>London</TEI:pubPlace> <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1634">1634</TEI:date>.
+                                <TEI:note>Printer Uncertain. The title page does not indicate a printer, but the show was entered into the Stationer’s Register on <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1634-10-14">14 October 1634</TEI:date> by <TEI:name ref="mol:GOSS3">Henry Gosson</TEI:name>, publisher of over sixty of <TEI:name ref="mol:TAYL2">Taylor</TEI:name>’s works. However, <TEI:name ref="mol:GOSS3">Gosson</TEI:name> was a publisher and did not own a press (<TEI:ref ref="mol:FINL1">Finlayson 114-115)</TEI:ref>.</TEI:note></TEI:docImprint>
+                            <TEI:filiation>While <TEI:name ref="mol:TAYL2">Taylor</TEI:name> never authored another Mayoral Show, <TEI:title level="m">Taylor’s Pastorall</TEI:title> (<TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1624">1624</TEI:date>) a work combining verse and prose, connects with the show’s fifth pageant of <TEI:name ref="mol:ENDY1">Endimion</TEI:name>, highlighting the importance of the <TEI:name type="org" ref="mol:CLOT2">Clothworkers’ Company</TEI:name> and role of the craftsmen (<TEI:ref ref="mol:FINL1">Finlayson 114</TEI:ref>; <TEI:title level="m"><TEI:ref ref="mol:ARBE1">A Transcript of the Registers</TEI:ref></TEI:title> 302).</TEI:filiation>
+                            <TEI:filiation>One of only six Lord Mayor’s Shows (<TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1588">1588</TEI:date>, <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic"  when-custom="1604">1604</TEI:date>, <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1612">1612</TEI:date>, <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1613">1613</TEI:date>, <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1616">1616</TEI:date>, <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1634">1634</TEI:date>) entered into the Stationer’s Register prior to the Civil War (<ref target="mol:FINL1">Finlayson 115</ref>).</TEI:filiation>
+                            <TEI:filiation><TEI:name ref="mol:HEYW1">Thomas Heywood</TEI:name>’s <TEI:title level="m">Londini Sinus Salutis, or, Londons Harbour of Health and Happiness</TEI:title> (<TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1635">1635</TEI:date>) is the only other extant Mayoral show printed in octavo format. Printed by <TEI:name ref="mol:RAWO1">Robert Raworth</TEI:name>. Lacks ornaments, intials, and type pieces that would link it to the printing of <TEI:title level="a">The Triumphs of Fame and Honour</TEI:title>.</TEI:filiation>
+                            <TEI:funder><TEI:name type="org" ref="mol:CLOT2">Clothworkers’ Livery Company</TEI:name></TEI:funder>
+                        </TEI:msItem>
+                    </TEI:msContents>
+                    <TEI:physDesc>
+                        <TEI:supportDesc>
+                            <TEI:support><TEI:material>Paper</TEI:material>, vertical chainlines 22mm apart. No watermark.</TEI:support>
+                            <TEI:extent>Leaves are closely cropped, varying in size.
+                                <TEI:dimensions scope="all" unit="mm">
+                                    <TEI:height>160</TEI:height>
+                                    <TEI:width>100</TEI:width>
+                                </TEI:dimensions>
+                            </TEI:extent>
+                            <TEI:foliation>Contemporary foliation. 
+                                <TEI:catchwords>A3-4, Twixt; A-B, The; B3-4, More; FINIS.</TEI:catchwords>
+                            </TEI:foliation>
+                            <TEI:collation><TEI:quote>In the only copy recorded the leaves have been detached and mounted on guards, and it is impossible to tell which should be conjugate. It is, therefore, uncertain whether B was a full sheet (with B7,8 blank and missing) or whether it was a quire of six (one fold having been removed)</TEI:quote>(<ref target="mol:GREG1">Greg #495a</ref>). Printed in octavo format, <TEI:name ref="mol:TAYL2">Taylor</TEI:name>’s pageant book departs from the quarto format typically used for Mayoral Shows.</TEI:collation> 
+                               <TEI:collation>8°: A<TEI:hi style="vertical-align: super;">8</TEI:hi>(-A1), B<TEI:hi style="vertical-align: super;">6</TEI:hi>(-B7, B8)
+                            </TEI:collation>
+                            <TEI:condition>Somewhat poor. Significant wear along the top edge obscures the ornamental decorations, but the fore edge remains in good condition. B2 bears a dark stain along the gutter, possibly pointing to damage incurred during rebinding. Bookworm damage is not observable in the facsimile but noted by Finlayson as being throughout, notably on A2r and B6v (116). Foxing on B6, eroding through B4, B5.
+                            </TEI:condition>
+                        </TEI:supportDesc>
+                        <TEI:layoutDesc>
+                            <TEI:layout>
+                                <TEI:fw type="header">Running titles mark the Epistle Dedicatory and the main text. Subtitles mark other significant divisions.</TEI:fw>
+                                <TEI:fw type="catchword">Catchwords located above the ornament.</TEI:fw>
+                                <TEI:fw type="signature">A3 located in the center margin, A4 located center, middle of the page. B, signed right of center, above ornaments.</TEI:fw>
+                            </TEI:layout>
+                        </TEI:layoutDesc>
+                        <TEI:typeDesc><TEI:typeNote>Main text in roman type with Epistle Dedicatory in italic. Section titles given for the speeches, the only set of stage directions, and the pageant explanation which are centered, italic, and given a separate line. The speeches of <TEI:name ref="mol:THET1">Thetis</TEI:name> (A5v) and <TEI:name ref="mol:LOND6">London</TEI:name> (A7v) lack section titles.</TEI:typeNote></TEI:typeDesc>
+                        <TEI:decoDesc>
+                            <TEI:decoNote>A row of floral bar ornaments line the head and foot of each page with irregular spacing and orientation. More elaborate ornamentation precedes the Epistle Dedicatory and the opening of the Mayoral Show, combining printers’ flowers and bar ornaments. One woodcut initial <TEI:quote>T</TEI:quote> begins the text, resulting in the error <TEI:quote>TThe</TEI:quote>.</TEI:decoNote>
+                        </TEI:decoDesc>
+                        <TEI:bindingDesc>
+                            <TEI:binding contemporary="false">
+                                The leaves have been detached and mounted on <TEI:material>guards</TEI:material>.<TEI:name ref="mol:TAYL2">Taylor</TEI:name>’s printed show is currently bound as the first of nineteen items in an early nineteenth-century, brown <TEI:material>leather</TEI:material> binding. Fifteen items by <TEI:name ref="mol:TAYL2">Taylor</TEI:name>, fourteen of which represent pseudo-political works of the 1640s. Remaining four offer responses to <TEI:name ref="mol:TAYL2">Taylor</TEI:name>’s political propaganda (<ref target="mol:HILL1">Hill</ref> 157). Spine embossed in gold with <TEI:q><TEI:name ref="mol:TAYL2">TAYLOR</TEI:name> THE WATER POET</TEI:q> and five images of a man in a row boat (<ref target="mol:FINL1">Finlayson 117</ref>). The cover is embossed with the monogram of the <TEI:name type="org">John Rylands Library</TEI:name> in <TEI:material>gold</TEI:material>.
+                            </TEI:binding>
+                        </TEI:bindingDesc>          
+                    </TEI:physDesc>
+             
+                </TEI:msDesc>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    
+    <mets:dmdSec ID="FAME2_DIG01_DMD1"><!-- Microfilm -->
+        <mets:mdWrap MDTYPE="DC" MDTYPEVERSION="1.1">
+            <mets:xmlData>
+                <dc:title>The [H]triumphs of fame and honour, or, The noble accomplish'd solemnity, full of cost, art and state, at the inauguration and establishment of the true worthy and right nobly minded Robert Parkhurst, into the right honourable office of Lord Maior of London the particularities of every invention in all the pageants, shewes and [H]triumphs both by water and land, are here following fully set downe, being all performed by loves, liberall costs, and charges of the right worshipfull and worthy Brother-hood of the Cloth-workers the 29 of October 1634 / written by Iohn Taylor.</dc:title>
+                <dc:type>Microfilm</dc:type>
+                <dc:date>1987</dc:date>
+                <dc:source>call: 10176.1</dc:source>
+                <dc:source>call: 9912106164401631</dc:source>
+                <dc:source>STC: 23808</dc:source>
+                <dc:creator>University of Michigan Library</dc:creator>
+                <dc:contributor>John Taylor</dc:contributor>
+                <dc:identifier>FILM X3203 reel 1951:011</dc:identifier>
+                <dc:identifier>https://search.lib.umich.edu/catalog/record/003668011</dc:identifier>
+                <dc:format>Microfilm</dc:format>
+                <dc:language>English</dc:language>
+                <dc:relation>Reel of microfilm which represents a physical book ID=FAME2_PHYS01. Represented by (1) a scan of the microfilm ID="FAME2_DIG02. Related to a digitization ID="FAME2_DIG03"</dc:relation>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    
+    <mets:dmdSec ID="FAME2_DIG01_DMD2"><!-- Microfilm -->
+        <mets:mdWrap MDTYPE="PREMIS" MDTYPEVERSION="3">
+            <mets:xmlData>
+                <PREMIS:objectCharacteristics>
+                    <PREMIS:format>
+                        <PREMIS:formatDesignation>
+                            <PREMIS:formatName>microfilm</PREMIS:formatName>
+                        </PREMIS:formatDesignation>
+                    </PREMIS:format>
+                </PREMIS:objectCharacteristics>
+                <PREMIS:storage>
+                    <PREMIS:contentLocation>
+                        <PREMIS:contentLocationType>physical location</PREMIS:contentLocationType>
+                        <PREMIS:contentLocationValue>Reel position: STC / 1951:11</PREMIS:contentLocationValue>
+                    </PREMIS:contentLocation>
+                </PREMIS:storage>
+                <PREMIS:storage>
+                    <PREMIS:contentLocation>
+                        <PREMIS:contentLocationType>physical location</PREMIS:contentLocationType>
+                        <PREMIS:contentLocationValue>Buhr Remote Shelving Facility</PREMIS:contentLocationValue>
+                    </PREMIS:contentLocation>
+                </PREMIS:storage>
+                    <PREMIS:significantProperties>
+                        <PREMIS:significantPropertiesType>reel count</PREMIS:significantPropertiesType>
+                        <PREMIS:significantPropertiesValue>1</PREMIS:significantPropertiesValue>
+                    </PREMIS:significantProperties>
+                    <PREMIS:significantProperties>
+                        <PREMIS:significantPropertiesType>reel size (mm)</PREMIS:significantPropertiesType>
+                        <PREMIS:significantPropertiesValue>33</PREMIS:significantPropertiesValue>
+                    </PREMIS:significantProperties> 
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>  
+
+    
+    <mets:dmdSec ID="FAME2_DIG02_DMD1"><!-- Scan of Microfilm -->
+        <mets:mdWrap MDTYPE="DC" MDTYPEVERSION="1.1">
+            <mets:xmlData>
+                <dc:title>The [H]triumphs of fame and honour, or, The noble accomplish'd solemnity, full of cost, art and state, at the inauguration and establishment of the true worthy and right nobly minded Robert Parkhurst, into the right honourable office of Lord Maior of London the particularities of every invention in all the pageants, shewes and [H]triumphs both by water and land, are here following fully set downe, being all performed by loves, liberall costs, and charges of the right worshipfull and worthy Brother-hood of the Cloth-workers the 29 of October 1634 / written by Iohn Taylor.</dc:title>
+                <dc:type>StillImage</dc:type>
+                <dc:date>unknown</dc:date>
+                <dc:source>FILM X3203 reel 1951:011</dc:source>
+                <dc:identifier>https://quod.lib.umich.edu/cgi/t/text/text-idx?c=eebo2;idno=A73300.0001.001</dc:identifier>
+                <dc:creator>University of Michigan</dc:creator>
+                <dc:contributor>John Taylor</dc:contributor>
+                <dc:language>English</dc:language>
+                <dc:description>Digitization of Microfilm, bitonal</dc:description>
+                <dc:relation>Scan of microfilm ID=FAME2_DIG01. Represents the physical item ID="FAME2_PHYS01. Represented by a digitization ID="FAME2_DIG03"</dc:relation>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    
+    <mets:dmdSec ID="FAME2_DIG02_DMD2"> 
+        <mets:mdWrap MDTYPE="PREMIS" MDTYPEVERSION="3">
+            <mets:xmlData>
+                <PREMIS:objectCharacteristic>
+                    <PREMIS:size>28940697</PREMIS:size>
+                    <PREMIS:format>
+                        <PREMIS:formatDesignation>
+                            <PREMIS:formatName>mtiff</PREMIS:formatName>
+                            <PREMIS:formatVersion></PREMIS:formatVersion>
+                        </PREMIS:formatDesignation>
+                        <PREMIS:formatNote>consists of 28 tif images</PREMIS:formatNote>
+                    </PREMIS:format>
+                    <PREMIS:storage>
+                        <PREMIS:contentLocation>
+                            <PREMIS:contentLocationType>Website</PREMIS:contentLocationType>
+                            <PREMIS:contentLocationValue>Early English Books Online</PREMIS:contentLocationValue>
+                        </PREMIS:contentLocation>
+                    </PREMIS:storage>
+                </PREMIS:objectCharacteristic>
+                <PREMIS:creatingApplication>
+                    <PREMIS:creatingApplicationName>ACDSee Photo Studio Ultimate 2020</PREMIS:creatingApplicationName>
+                    <PREMIS:creatingApplicationVersion>13.0</PREMIS:creatingApplicationVersion>
+                </PREMIS:creatingApplication>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec> 
+
+    <mets:dmdSec ID="FAME2_DIG03_DMD1"><!-- Digitization-->
+        <mets:mdWrap MDTYPE="DC" MDTYPEVERSION="1.1">
+            <mets:xmlData>
+                <dc:title>The [H]triumphs of fame and honour, or, The noble accomplish'd solemnity, full of cost, art and state, at the inauguration and establishment of the true worthy and right nobly minded Robert Parkhurst, into the right honourable office of Lord Maior of London the particularities of every invention in all the pageants, shewes and [H]triumphs both by water and land, are here following fully set downe, being all performed by loves, liberall costs, and charges of the right worshipfull and worthy Brother-hood of the Cloth-workers the 29 of October 1634 / written by Iohn Taylor.</dc:title>
+                <dc:date>object digitized on 2015-01-29 by University of Manchester Library</dc:date>
+                <dc:type>Digital Surrogate</dc:type>
+                <dc:source>call: 10176.1, call: 9912106164401631, STC: 23808</dc:source>
+                <dc:creator>University of Manchest, John Rylands Library, Rylands Collection, Visual Collections</dc:creator>
+                <dc:contributor>John Taylor</dc:contributor>
+                <dc:identifier>https://luna.manchester.ac.uk/luna/servlet/detail/Manchester~91~1~417313~148377</dc:identifier>
+                <dc:language>English</dc:language>
+                <dc:description>Reproduction of the original</dc:description>
+                <dc:relation>Digitization of a physical bound codex ID="FAME2_PHYS01". Represented in (1) microfilm ID=FAME2_DIG01 and (2) a scan of the micro film ID="FAME2_DIG02</dc:relation>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    
+    <mets:dmdSec ID="FAME2_DIG03_DMD2">
+        <mets:mdWrap MDTYPE="PREMIS" MDTYPEVERSION="3">
+            <mets:xmlData>
+                <PREMIS:objectCharacteristic>
+                    <PREMIS:fixity>
+                        <PREMIS:messageDigestAlgorithm>MD5</PREMIS:messageDigestAlgorithm>
+                        <PREMIS:messageDigest>62752eecdbdc26a138869d817a36ab3c</PREMIS:messageDigest>
+                    </PREMIS:fixity>
+                    <PREMIS:size>14625373</PREMIS:size>
+                    <PREMIS:format>
+                        <PREMIS:formatDesignation>
+                            <PREMIS:formatName>Acrobat PDF</PREMIS:formatName>
+                            <PREMIS:formatVersion>1.6</PREMIS:formatVersion>
+                        </PREMIS:formatDesignation>
+                        <PREMIS:formatRegistry>
+                            <PREMIS:formatRegistryName>PRONOM</PREMIS:formatRegistryName>
+                            <PREMIS:formatRegistryKey>fmt/20</PREMIS:formatRegistryKey>
+                            <PREMIS:formatRegistryRole>validation profile</PREMIS:formatRegistryRole>
+                        </PREMIS:formatRegistry>
+                    </PREMIS:format>
+                    <PREMIS:storage>
+                        <PREMIS:contentLocation>
+                            <PREMIS:contentLocationType>URL</PREMIS:contentLocationType>
+                            <PREMIS:contentLocationValue>http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book;bookFile=Bookreader_Bookreader_10176_1.pdf</PREMIS:contentLocationValue>
+                        </PREMIS:contentLocation>
+                    </PREMIS:storage>
+                    <PREMIS:significantProperties>
+                        <PREMIS:significantPropertiesType>page count</PREMIS:significantPropertiesType>
+                        <PREMIS:significantPropertiesValue>26</PREMIS:significantPropertiesValue>
+                    </PREMIS:significantProperties>
+                </PREMIS:objectCharacteristic>
+                <PREMIS:creatingApplication>
+                    <PREMIS:creatingApplicationName>Acrobat 11.0.23 Paper Capture Plug-In/Adobe Acrobat 11.0.23</PREMIS:creatingApplicationName>
+                    <PREMIS:creatingApplicationVersion>11.0.23</PREMIS:creatingApplicationVersion>
+                </PREMIS:creatingApplication>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    
+    <mets:amdSec>
+        <mets:rightsMD ID="FAME2_PHYS01_Rights1"><!-- Physical Object -->
+            <mets:mdWrap MDTYPE="PREMIS:RIGHTS" MDTYPEVERSION="3.0">
+                <mets:xmlData>
+                    <PREMIS:rightsBasis authority="rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">cop</PREMIS:rightsBasis>
+                    <PREMIS:copyrightStatus>NKC</PREMIS:copyrightStatus>
+                    <PREMIS:copyrightDocumentationIdentifier>
+                        <PREMIS:copyrightDocumentationIdentifierType>URL</PREMIS:copyrightDocumentationIdentifierType> <PREMIS:copyrightDocumentationIdentifierValue>https://rightsstatements.org/page/NKC/1.0</PREMIS:copyrightDocumentationIdentifierValue>
+                        <PREMIS:copyrightDocumentationRole>public domain statement</PREMIS:copyrightDocumentationRole>
+                    </PREMIS:copyrightDocumentationIdentifier> 
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:rightsMD>
+        
+        <mets:rightsMD ID="FAME2_DIG01_Rights1"><!-- Microfilm -->
+            <mets:mdWrap MDTYPE="PREMIS:RIGHTS" MDTYPEVERSION="3.0">
+                <mets:xmlData>
+                    <PREMIS:rightsBasis authority="rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">cop</PREMIS:rightsBasis>
+                    <PREMIS:copyrightStatus>NKC</PREMIS:copyrightStatus>
+                    <PREMIS:copyrightDocumentationIdentifier>
+                        <PREMIS:copyrightDocumentationIdentifierType>URL</PREMIS:copyrightDocumentationIdentifierType> <PREMIS:copyrightDocumentationIdentifierValue>https://rightsstatements.org/page/NKC/1.0</PREMIS:copyrightDocumentationIdentifierValue>
+                        <PREMIS:copyrightDocumentationRole>public domain statement</PREMIS:copyrightDocumentationRole>
+                    </PREMIS:copyrightDocumentationIdentifier> 
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:rightsMD>
+        
+        
+        
+        <mets:rightsMD ID="FAME2_DIG02_Rights1"><!-- Scan of Microfilm --> 
+                <mets:mdWrap MDTYPE="PREMIS:RIGHTS" MDTYPEVERSION="3.0">
+                    <mets:xmlData>
+                                <PREMIS:rightsBasis authority="rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">License</PREMIS:rightsBasis>
+                            <PREMIS:licenseInformation>
+                                <PREMIS:licenseDocumentationIdentifier>
+                                    <PREMIS:licenseDocumentationIdentifierType>URL</PREMIS:licenseDocumentationIdentifierType>
+                                    <PREMIS:licenseDocumentationIdentifierValue>http://eebo.chadwyck.com.proxy2.library.illinois.edu/about/terms.htm</PREMIS:licenseDocumentationIdentifierValue>
+                                   </PREMIS:licenseDocumentationIdentifier>
+                                <PREMIS:licenseTerms>A full version of ProQuest LLC's Electronic Products License Agreement is available. By accessing or using the products you agree that you are bound by these terms and conditions, modified only to the extent such terms conflict with the written license agreement between your institution and ProQuest under which the license to access Early English Books Online (EEBO) has been granted to you as an Authorized User (defined below). If you do not meet the definition of Authorized User, you are prohibited from accessing EEBO.
+                                    
+                                    The term "Authorized User" means: (1) For public libraries: library staff, individual residents of a reasonably defined geographic area in addition to walk-in patrons while on-site; (2) For schools and academic institutions: currently enrolled students, faculty and staff in addition to walk-in patrons and visiting scholars while on-site; and (3) For other types of organizations: employees, independent contractors and other temporary workers while performing duties within the scope of their employment or assignment.
+                                    
+                                    You will use the Products solely for your own personal or internal use. You will not publish, broadcast or sell any materials retrieved through the Products or use the materials in any manner that will infringe the copyright or other proprietary right of ProQuest or its licensors. You may not use the Products to execute denial of service attacks nor may you perform automated searches against ProQuest's systems to the extent such searches unduly burden ProQuest's systems (including, but not limited to automated "bots" or link checkers). You may print and make copies of materials retrieved through the Products only as permitted below. You represent and warrant to ProQuest that you will not use the Products or any material retrieved from the Products to create products or perform services which compete or interfere with the publications and services of ProQuest or its licensors.
+                                    
+                                    You may create printouts of materials retrieved through the Products via on-line printing, off-line printing, facsimile, or electronic mail. All reproduction and distribution of such printouts, and all downloading and electronic storage of materials retrieved through the Products shall be for your own internal or personal use. Downloading of all or parts of the Products in a systematic or regular manner so as to create a collection of materials comprising all or part of the Products is strictly prohibited whether or not such collection is in electronic or print form. Notwithstanding the above restrictions, this paragraph shall not restrict your use of the materials under the doctrines of "fair use" or "fair dealing" as defined under the laws of the United States or England, respectively.
+                                    
+                                    Individual content providers or licensors may have conditions of use applicable solely to their content. Such conditions of use shall be displayed on the computer screen displays associated with such content and shall not materially alter your use of the Products.
+                                    
+                                    All intellectual property rights, including without limitation, trade secrets, copyrights and patent rights to any software, materials, databases or hardware supplied to you by ProQuest remain the sole property of ProQuest or its licensors, and no title or license right is granted to you except as expressly set forth in the signed license agreement with ProQuest.
+                                    
+                                    The data in EEBO is the copyright of ProQuest LLC and of the source libraries from whom ProQuest has licences for its inclusion in EEBO. Every effort is made to clearly identify third party copyright holders in the data.
+                                    
+                                    The electronic versions of any public domain works that may be included in EEBO are the copyright of ProQuest LLC. For all works in the collection, the printing or saving of texts is permitted only for private or educational use. Further reproduction is prohibited
+                                    
+                                    Special restrictions have been applied to the use of certain copyright texts in order to protect the copyright of these third parties. These texts cannot be downloaded in their entirety, and users who wish to print sections of a text must first confirm that they will not infringe conditions of fair usage.
+                                    
+                                    Users are solely responsible for the use which they make of EEBO and ProQuest LLC shall not in any event be liable to users in contract, tort, negligence, breach of statutory duty or otherwise for any loss, damage, cost or expense incurred or suffered by a user arising in connection with this service.</PREMIS:licenseTerms>
+                                <PREMIS:licenseApplicableDates>
+                                    <PREMIS:startDate>2003</PREMIS:startDate>
+                                    <PREMIS:endDate>open</PREMIS:endDate>
+                                </PREMIS:licenseApplicableDates>
+                            </PREMIS:licenseInformation>
+                    </mets:xmlData>
+                </mets:mdWrap>
+            </mets:rightsMD>
+            
+        <mets:rightsMD ID="FAME2_DIG03_Rights1"><!-- Digitization -->
+            <mets:mdWrap MDTYPE="PREMIS:RIGHTS" MDTYPEVERSION="3.0">
+                <mets:xmlData>
+                    <PREMIS:rightsBasis authority="rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">License</PREMIS:rightsBasis>
+                    <PREMIS:licenseInformation>                              
+                        <PREMIS:licenseDocumentationIdentifier>
+                            <PREMIS:licenseDocumentationIdentifierType>URL</PREMIS:licenseDocumentationIdentifierType>
+                            <PREMIS:licenseDocumentationIdentifierValue>https://creativecommons.org/licenses/by-nc-sa/4.0/</PREMIS:licenseDocumentationIdentifierValue>
+                        </PREMIS:licenseDocumentationIdentifier>
+                        <PREMIS:licenseTerms>Published under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license and are available for download and reuse under the terms of such licence.</PREMIS:licenseTerms> 
+                    </PREMIS:licenseInformation>
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:rightsMD>
+    
+    
+            
+        <mets:sourceMD ID="FAME2_BIBL"><!-- Bibliography -->
+            <mets:mdWrap MDTYPE="OTHER" MDTYPEVERSION="P5" OTHERMDTYPE="TEI">
+                <mets:xmlData>
+                    <TEI:listBibl>
+                        <TEI:bibl ref="mol:WEST1" type="sec"><TEI:title level="m">Bibliotheca Westiana: A Catalogue of the Curious and Truly Valuable Library of the Late James West, Esq...sold by auction...on Monday 29th March, 1773</TEI:title>. London, <TEI:date when="1773"/>. Item 4384.</TEI:bibl>
+                        <TEI:bibl ref="mol:FINL1" type="sec"><TEI:author>Finlayson, J. Caitlin.</TEI:author> <TEI:title level="a">Two London Lord Mayor’s Shows by John Squire (1620) and John Taylor (1634)</TEI:title>. <TEI:title level="j">Collections</TEI:title>, vol. 17, <TEI:date when="2015"/>, pp. 75-150.</TEI:bibl>
+                        <TEI:bibl ref="mol:GREG1" type="sec"><TEI:author>Greg, W. W.</TEI:author> <TEI:title level="m">A Bibliography of the English Printed Drama to the Restoration</TEI:title>, vol. 2. London, Bibliographical Society, <TEI:date when="1951"/>.</TEI:bibl>
+                        <TEI:bibl ref="mol:ARBE1" type="sec"><TEI:title level="m">A Transcript of the Registers of the Company of Stationers of London 1554-1640</TEI:title>, vol. 4. Edited by <TEI:editor>Edward Arber</TEI:editor>, London, <TEI:date when="1877"/>.</TEI:bibl>
+                        <TEI:bibl ref="mol:HILL1" type="sec"><TEI:author>Hill, Tracy</TEI:author>. <TEI:title level="a">Owners and Collectors of the Printed Books of the Early Modern Lord Mayors’ Shows</TEI:title>. <TEI:title level="j">Library and Information History</TEI:title>, vol. 30, no. 3, <TEI:date when="2013"/>, pp. 151-171. Web. <TEI:idno>https://doi.org/10.1179/1758348914Z.00000000061</TEI:idno></TEI:bibl>
+                    </TEI:listBibl>
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:sourceMD>
+        
+        
+        <mets:digiprovMD ID="FAME2_PHYS01_PROV1">
+            <mets:mdWrap MDTYPE="OTHER" MDTYPEVERSION="P5" OTHERMDTYPE="TEI">
+                <mets:xmlData>
+                    <TEI:history>
+                        <TEI:provenance notAfter="1892">While the binding is embossed with the John Rylands monogram, which was the practice of Mrs. Rylands, it was unusual for books to be completely rebound when entering the collection. The binding is therefore considered to be a product of the <TEI:name type="org">Spencer Collection</TEI:name><ref target="mol:FINL1">(Finlayson 117)</ref>.</TEI:provenance>
+                        <TEI:provenance when="1892"><TEI:name type="org">The Spencer Collection</TEI:name> was purchased for the <TEI:name type="org">John Rylands Library</TEI:name> by Mrs. Enriqueta Augustina Rylands, the Library’s founder, from John Poyntz Spencer, 5th Earl of Spencer. No records indicate when the <TEI:name type="org">Spencer Collection</TEI:name> obtained the item, but the Spencer’s book-sellers’ and book-binders’ bills at the Department of Manuscripts in the British Library may yet provide evidence of the sale.</TEI:provenance>
+                        <TEI:provenance when="1773">At the sale of James West’s library in 1773, the auctioneer’s catalogue lists the sale of <TEI:quote>Three ditto [Triumphs], in the Reighn of Cha. I. <TEI:name ref="mol:PARK7">Rob. Parkhurſt</TEI:name>, Mayor, by <TEI:name ref="mol:TAYL2">Jo./Taylor</TEI:name>, the Water Poet, <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1634">1634</TEI:date>—Ditto of <TEI:name ref="mol:ABBO7">Sir Maurice Abbot</TEI:name>, by/ <TEI:name ref="mol:HEYW1">Tho. Heywood</TEI:name>, <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1638">1638</TEI:date>—Ditto of <TEI:name ref="mol:GARR5">Henry Garway</TEI:name>, by <TEI:name ref="mol:HEYW1">Heywood</TEI:name>,/ <TEI:date calendar="mol:julianSic" datingMethod="mol:julianSic" when-custom="1639">1639</TEI:date>.</TEI:quote> It is possible that this is the same copy that now resides in the <TEI:name type="org">John Rylands Library</TEI:name> (<ref target="mol:FINL1"> Finlayson 118</ref>; <TEI:title level="m"><ref target="mol:WEST1">Bibliotheca Westiana</ref></TEI:title> 225).</TEI:provenance>
+                        <TEI:acquisition when="1892">Acquired by the <TEI:name type="org">John Rylands Library</TEI:name> at the purchase of the <TEI:name type="org">Spencer Collection</TEI:name> in <TEI:date when="1892">1892</TEI:date>.</TEI:acquisition>
+                    </TEI:history>
+                </mets:xmlData>
+            </mets:mdWrap>  
+        </mets:digiprovMD>
+        
+        
+        <mets:digiprovMD ID="FAME2_PHYS01_PROV2">
+            <mets:mdWrap MDTYPE="OTHER" MDTYPEVERSION="" OTHERMDTYPE="CDWA">
+                <mets:xmlData>
+                    <CDWA:consTreatmentDesc>Rebound in nineteenth century leather binding, possibly by the Spencer Collection. Mounted on paper guards</CDWA:consTreatmentDesc>
+                    <CDWA:treatmentType>Rebinding</CDWA:treatmentType>
+                    <CDWA:treatmentAgent>Spencer Collection</CDWA:treatmentAgent>
+                    <CDWA:treatmentDate>
+                        <CDWA:earliestDate>1634</CDWA:earliestDate>
+                        <CDWA:latestDate>1892</CDWA:latestDate>
+                    </CDWA:treatmentDate>
+                </mets:xmlData>
+            </mets:mdWrap>            
+        </mets:digiprovMD>
+    </mets:amdSec>
+    
+    <mets:fileSec>
+        <mets:fileGrp ID="FAME2_DIG02_GRP01" USE="digital surrogate"><!-- Scan of Microfilm -->
+            <mets:file ID="FAME2_DIG02_GRP01_p1-2_1" MIMETYPE="image/tiff" xlink:label="page1-2" >
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-6-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p1-2_2" MIMETYPE="image/tiff" xlink:label="page1-2 (with ruller)" >
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-7-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p1-2_3" MIMETYPE="image/tiff" xlink:label="page1-2" >
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-8-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p3-4" MIMETYPE="image/tiff" xlink:label="page3-4" >
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-9-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p5-6" MIMETYPE="image/tiff" xlink:label="page5-6">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-10-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p7-8" MIMETYPE="image/tiff" xlink:label="page7-8">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-11-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p9-10" MIMETYPE="image/tiff" xlink:label="page9-10">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-12-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p11-12" MIMETYPE="image/tiff" xlink:label="page11-12">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-13-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p13-14" MIMETYPE="image/tiff" xlink:label="page13-14">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-14-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p15-16" MIMETYPE="image/tiff" xlink:label="page15-16">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-15-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p17-18" MIMETYPE="image/tiff" xlink:label="page17-18">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-16-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p19-20" MIMETYPE="image/tiff" xlink:label="page19-20">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-17-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p21-22" MIMETYPE="image/tiff" xlink:label="page21-22">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-18-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p23-24" MIMETYPE="image/tiff" xlink:label="page23-24">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-19-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG02_GRP01_p25-26" MIMETYPE="image/tiff" xlink:label="page25-26">
+                <mets:FLocat xlink:href="https://quod-lib-umich-edu.proxy2.library.illinois.edu/cache/PQ/pq-150435/pq-150435-20-750.gif" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        
+        <mets:fileGrp ID="FAME2_DIG03_GRP02" USE="digital surrogate"><!-- Digitization -->
+            <mets:file ID="FAME2_DIG03_GRP02_p1" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0001.jp2&amp;'width=270'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+                </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p2" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0002.jp2&amp;'width=255'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p3" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0003.jp2&amp;'width=264'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p4" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0004.jp2&amp;'width=255'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p5" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0005.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p6" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0006.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p7" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0007.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p8" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0008.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p9" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0009.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p10" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0010.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p11" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0011.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p12" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0012.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p13" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0013.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p14" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0014.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p15" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0015.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p16" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0016.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p17" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0017.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p18" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0018.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p19" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0019.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p20" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0020.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p21" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0021.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p22" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0022.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p23" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0023.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p24" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0024.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p25" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0025.jp2&amp;'width=259'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file ID="FAME2_DIG03_GRP02_p26" MIMETYPE="image/tiff">
+                <mets:FLocat xlink:href="http://johannes.library.manchester.ac.uk:8181/MediaManager/srvr?mediafile=BOOK/Manchester~91~1/4397/Bookreader_Bookreader_10176_1/Bookreader_Bookreader_10176_1.book&amp;'zip'=Bookreader_Bookreader_10176_1_jp2.'zip'&amp;'page'=0026.jp2&amp;'width=261'&amp;'height'=400&amp;'level'=4" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec> 
+    
+    <mets:structMap LABEL="FAME2_PHYS01_StructMap_Physical" ID="StructMap_PHYS01" TYPE="logical">
+        <mets:div>
+            <mets:div LABEL="_Des" ID="StructMap_PHYS01_des">
+                <mets:div LABEL="_DC_Des" ID="FAME2_Struct_PHYS01_Des_DC_1" DMDID="FAME2_PHYS01_DMD1"/>
+                <mets:div LABEL="_TEI_Des" ID="FAME2_Struct_PHYS01_TEI_1" DMDID="FAME2_PHYS01_DMD2"/>
+            </mets:div>
+            <mets:div LABEL="_Admin" ID="StructMap_PHYS01_admin">
+                <mets:div LABEL="_Rights" ID="FAME2_Struct_PHYS01_Rights_1" ADMID="FAME2_PHYS01_Rights1"/>
+                <mets:div LABEL="_TEI_DigiProv" ID="FAME2_Struct_PHYS01_DigiProv_1" ADMID="FAME2_PHYS01_PROV1"/>
+                <mets:div LABEL="_CDWA_DigiProv" ID="FAME2_Struct_PHYS01_DigiProv_2" ADMID="FAME2_PHYS01_PROV2"/>
+            </mets:div>
+        </mets:div>  
+    </mets:structMap>
+    
+    <mets:structMap LABEL="FAME2_DIG01_StructMap_Microfilm" ID="FAME2_StructMap_DIG01" TYPE="logical">
+        <mets:div>
+            <mets:div LABEL="_Des" ID="StructMap_DIG01_des">
+                <mets:div LABEL="_DC_Des" ID="FAME2_Struct_DIG01_Des_DC_1" DMDID="FAME2_DIG01_DMD1"/>
+                <mets:div LABEL="_PREMIS_Des" ID="FAME2_Struct_DIG01_PREMIS_1" DMDID="FAME2_DIG01_DMD2"/>
+            </mets:div>
+            <mets:div LABEL="_Admin" ID="StructMap_DIG01_admin">
+                <mets:div LABEL="_Rights" ID="FAME2_Struct_DIG01_Rights_1" ADMID="FAME2_DIG01_Rights1"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+    
+    <mets:structMap LABEL="FAME2_DIG02_StructMap_Scan_Microfilm" ID="FAME2_StructMap_DIG02" TYPE="logical">
+        <mets:div>
+            <mets:div LABEL="_Des" ID="StructMap_DIG02_des">
+                <mets:div LABEL="_DC_Des" ID="FAME2_Struct_DIG02_Des_DC_1" DMDID="FAME2_DIG02_DMD1"/>
+                <mets:div LABEL="_PREMIS_Des" ID="FAME2_Struct_DIG02_PREMIS_1" DMDID="FAME2_DIG02_DMD2"/>
+            </mets:div>
+            <mets:div LABEL="_Admin" ID="StructMap_DIG02_admin">
+                <mets:div LABEL="_Rights" ID="FAME2_Struct_DIG02_Rights_1" ADMID="FAME2_DIG02_Rights1"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+    
+    <mets:structMap LABEL="FAME2_DIG03_StructMap_Digitization" ID="FAME2_StructMap_DIG03" TYPE="logical">
+        <mets:div>
+            <mets:div LABEL="_Des" ID="StructMap_DIG03_des">
+                <mets:div LABEL="_DC_Des" ID="FAME2_Struct_DIG03_Des_DC_1" DMDID="FAME2_DIG03_DMD1"/>
+                <mets:div LABEL="_PREMIS_Des" ID="FAME2_Struct_DIG03_PREMIS_1" DMDID="FAME2_DIG03_DMD2"/>
+            </mets:div>
+            <mets:div LABEL="_Admin" ID="StructMap_DIG03_admin">
+                <mets:div LABEL="_Rights" ID="FAME2_Struct_DIG03_Rights_1" ADMID="FAME2_DIG03_Rights1"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+    
+    <mets:structMap LABEL="FAME2_DIG_StructMap_File" ID="FAME2_StructMap_DIG_File" TYPE="physical">
+        <mets:div>
+            <mets:div TYPE="page" LABEL="_page1-2">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p1" ID="DIG_page1"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p2" ID="DIG_page2"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p1-2_1" ID="DIG_page1-2_1"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p1-2_2" ID="DIG_page1-2_2"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p1-2_3" ID="DIG_page1-2_3"></mets:fptr>
+            </mets:div>
+            <mets:div TYPE="page" LABEL="_page3-4">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p3" ID="DIG_page3"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p4" ID="DIG_page4"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p3-4" ID="DIG_page3-4"></mets:fptr>
+            </mets:div>            
+            <mets:div TYPE="page" LABEL="_page5-6">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p5" ID="DIG_page5"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p6" ID="DIG_page6"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p5-6" ID="DIG_page5-6"></mets:fptr>
+            </mets:div>  
+            <mets:div TYPE="page" LABEL="_page7-8">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p7" ID="DIG_page7"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p8" ID="DIG_page8"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p7-8" ID="DIG_page7-8"></mets:fptr>
+            </mets:div>  
+            <mets:div TYPE="page" LABEL="_page9-10">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p9" ID="DIG_page9"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p10" ID="DIG_page10"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p9-10" ID="DIG_page9-10"></mets:fptr>
+            </mets:div>  
+            <mets:div TYPE="page" LABEL="_page11-12">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p11" ID="DIG_page11"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p12" ID="DIG_page12"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p11-12" ID="DIG_page11-12"></mets:fptr>
+            </mets:div>  
+            <mets:div TYPE="page" LABEL="_page13-14">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p13" ID="DIG_page13"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p14" ID="DIG_page14"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p13-14" ID="DIG_page13-14"></mets:fptr>
+            </mets:div>   
+            <mets:div TYPE="page" LABEL="_page15-16">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p15" ID="DIG_page15"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p16" ID="DIG_page16"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p15-16" ID="DIG_page15-16"></mets:fptr>
+            </mets:div>  
+            <mets:div TYPE="page" LABEL="_page17-18">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p17" ID="DIG_page17"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p18" ID="DIG_page18"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p17-18" ID="DIG_page17-18"></mets:fptr>
+            </mets:div>  
+            <mets:div TYPE="page" LABEL="_page19-20">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p19" ID="DIG_page19"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p20" ID="DIG_page20"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p19-20" ID="DIG_page19-20"></mets:fptr>
+            </mets:div> 
+            <mets:div TYPE="page" LABEL="_page21-22">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p21" ID="DIG_page21"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p22" ID="DIG_pag22"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p21-22" ID="DIG_page21-22"></mets:fptr>
+            </mets:div>  
+            <mets:div TYPE="page" LABEL="_page23-24">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p23" ID="DIG_page23"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p24" ID="DIG_page24"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p23-24" ID="DIG_page23-24"></mets:fptr>
+            </mets:div>  
+            <mets:div TYPE="page" LABEL="_page25-26">
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p25" ID="DIG_page25"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG03_GRP02_p26" ID="DIG_page26"></mets:fptr>
+                <mets:fptr FILEID="FAME2_DIG02_GRP01_p25-26" ID="DIG_page25-26"></mets:fptr>
+            </mets:div>              
+        </mets:div>
+    </mets:structMap>
+    
+</mets:mets>
+    

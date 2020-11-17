@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets:mets xmlns:mets="http://www.loc.gov/METS/" xmlns:dc="http://www.w3.org/2001/XMLSchema-instance" xmlns:TEI="http://www.tei-c.org/ns/1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:CDWA="http://www.getty.edu/CDWA" xmlns:PREMIS="http://www.loc.gov/premis/v3"
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd
+    https://www.dublincore.org/schemas/xmls/qdc/2008/02/11/simpledc.xsd
+    http://www.getty.edu/CDWA/CDWALite/CDWALite-xsd-public-v1-1.xsd
+    http://www.loc.gov/premis/v3 https://www.loc.gov/standards/premis/premis.xsd">
+    <mets:metsHdr ID="VIGI1" CREATEDATE="2019-12-10T00:00:00">
+        <mets:agent ROLE="CREATOR">
+            <mets:name>Pinkney, Annabel</mets:name>
+            <mets:note>DMD Section</mets:note>
+        </mets:agent>
+        <mets:agent ROLE="CREATOR">
+            <mets:name>Heng, Greta</mets:name>
+            <mets:note>DMD Section, File Section, StructMap Section</mets:note>
+        </mets:agent>
+        <mets:agent ROLE="CREATOR">
+            <mets:name>Shimizu, Yohta</mets:name>
+            <mets:note>AMD Section</mets:note>
+        </mets:agent>
+        <mets:agent ROLE="CREATOR">
+            <mets:name>Dubin, Gillian</mets:name>
+            <mets:note>AMD Section</mets:note>
+        </mets:agent>
+        <mets:agent ROLE="EDITOR">
+            <mets:name>Dwyer, Kaylen</mets:name>
+        </mets:agent>
+    </mets:metsHdr>
+    
+    <mets:dmdSec ID="VIGI1_PHYS01_DMD1">
+        <mets:mdWrap MDTYPE="DC" MDTYPEVERSION="1.1">
+            <mets:xmlData>
+                <dc:title>Vigiliae rhetorum, et somnia poetarum : emblematicè expressa, ac in alma Archiepiscopali Universitate Salisburgensi publice affixa, infrà octavam SS. Corporis Christi, anno MDLXXXI [sic] : Nunc iteratò ... aeri and typis data.</dc:title>
+                <dc:date>1700</dc:date>
+                <dc:type>print edition</dc:type>
+                <dc:source>Rare Book &amp; Manuscript Library, University of Illinois at Urbana-Champaign Library</dc:source>
+                <dc:identifier>Emblems 875.1 V683</dc:identifier>
+                <dc:creator>unknown</dc:creator>
+                <dc:contributor>Mayr, Johann Baptist, printer</dc:contributor>
+                <dc:contributor>Universität Salzburg</dc:contributor>
+                <dc:language>Latin</dc:language>
+                <dc:relation>This records captures metadata on physical objects stored in RBML in University of Illinois Urbana-Champaign.
+                    The digital surrogate of the oject could be retrieved from the following link:
+                    https://catalog.hathitrust.org/Record/100319133</dc:relation>
+                <dc:description>Emblem books, Latin. | Emblem books - Austria - 17th century.</dc:description>
+                <dc:format>[4], XLIX, [1], XXXIV leaves : ill. (engravings) ; 16 cm (8vo)</dc:format>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec ID="VIGI1_PHYS01_DMD2">
+        <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="TEI">
+            <mets:xmlData>
+                
+                <TEI:msDesc>
+                    <TEI:msIdentifier>
+                        <TEI:settlement>Urbana, IL, U.S.</TEI:settlement>
+                        <TEI:repository>Rare Book &amp; Manuscript Library[non-circulating], University of Illinois at Urbana-Champaign Library</TEI:repository>
+                        <TEI:idno>Emblems 875.1 V683</TEI:idno>
+                    </TEI:msIdentifier>
+                    <TEI:msContents>
+                        <TEI:msItem>
+                            <TEI:author>Unknown</TEI:author>
+                            <TEI:title>Vigiliae rhetorum, et somnia poetarum: emblematicè expressa, ac in alma Archiepiscopali Universitate Salisburgensi publice affixa, infrà octavam SS. Corporis Christi, anno MDLXXXI [sic] : Nunc iteratò ... aeri &amp; typis data.</TEI:title>
+                        </TEI:msItem>
+                    </TEI:msContents>
+                    <TEI:physDesc>
+                        <TEI:objectDesc>
+                            <TEI:summary>[4], XLIX, [1], XXXIV leaves : ill. (engravings) ; 16 cm (8vo).</TEI:summary>
+                            <TEI:summary>Place of publication based on printer's activities. </TEI:summary>
+                            <TEI:summary>T.p. printed in red and black. </TEI:summary>
+                        </TEI:objectDesc>
+                        <TEI:objectDesc form="codex">
+                            <TEI:supportDesc material="mixed">
+                                <TEI:support><TEI:material>paper</TEI:material>.</TEI:support>
+                            </TEI:supportDesc>
+                            <TEI:layoutDesc>
+                                <layout ruledLines="16"/>
+                            </TEI:layoutDesc>
+                        </TEI:objectDesc>
+                        <TEI:addtions>
+                            <TEI:summary>Signatures: )o(⁴ A-K⁸ L⁴. Title vignette (printer's device); initials. 
+                                Divisional titles on leaves )o(4 and G2 respectively: "Deo ter opt. max. moderatori vigilantissimo suas vigilias C.C. rhetores Salisburgenses. anno MDCLXXXI"; "Deo ter opt. max. motori primo tranquillissimo sua somnia D.D. poëtae Salisburgenses. anno MDCLXXXI." 
+                                Registration is continuous despite foliation. 
+                                Numbered leaves with engraved circular emblems on recto and blank versos.</TEI:summary>
+                        </TEI:addtions>
+                    </TEI:physDesc>
+                </TEI:msDesc>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    
+    <mets:dmdSec ID="VIGI1_DIG01_DMD1">
+        <mets:mdWrap MDTYPE="DC" MDTYPEVERSION="1.1">
+            <mets:xmlData>
+                <dc:title>Vigiliae rhetorum, et somnia poetarum :
+                    emblematicè expressa, ac in alma Archiepiscopali Universitate Salisburgensi publice affixa, infrà octavam SS. Corporis Christi, anno MDLXXXI [sic] : Nunc iteratò ... aeri and typis data.</dc:title>
+                <dc:date>2015-09-09T13:32_00</dc:date>
+                <dc:type>digital surrogate</dc:type>
+                <dc:source>Emblems 875.1 V683</dc:source>
+                <dc:identifier>https://hdl.handle.net/2027/uiuc.6013749</dc:identifier>
+                <dc:creator>unknown</dc:creator>
+                <dc:contributor>Mayr, Johann Baptist, printer</dc:contributor>
+                <dc:relation>This records captures metadata on the digital surrogate of Vigiliae rhetorum, stored in Hathi Trust.
+                    The original physical object could be accessed at RBML in University of Illinois Urbana-Champaign:
+                    https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_5418179
+                </dc:relation>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    
+    <mets:dmdSec ID="VIGI1_DIG01_DMD2">
+        <mets:mdWrap MDTYPE="PREMIS" MDTYPEVERSION="3">
+            <mets:xmlData>
+                <PREMIS:objectCharacteristic>
+                    <PREMIS:size>132564</PREMIS:size>
+                    <PREMIS:format>
+                        <PREMIS:formatDesignation>
+                            <PREMIS:formatName>pdf</PREMIS:formatName>
+                        </PREMIS:formatDesignation>
+                    </PREMIS:format>
+                </PREMIS:objectCharacteristic>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    
+    <mets:amdSec>
+        <mets:rightsMD ID="VIGI1_PHYS01_Rights1">
+            <mets:mdWrap MDTYPE="PREMIS:RIGHTS" MDTYPEVERSION="3.0">
+                <mets:xmlData>
+                    <PREMIS:rightsBasis authority="rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/cop">cop</PREMIS:rightsBasis>
+                    <PREMIS:copyrightStatus>publicdomain</PREMIS:copyrightStatus>
+                    <PREMIS:copyrightDocumentationIdentifier>
+                        <PREMIS:copyrightDocumentationIdentifierType>URL</PREMIS:copyrightDocumentationIdentifierType>
+                        <PREMIS:copyrightDocumentationIdentifierValue>https://www.hathitrust.org/access_use#pd</PREMIS:copyrightDocumentationIdentifierValue>
+                        <PREMIS:copyrightDocumentationRole>public domain statement</PREMIS:copyrightDocumentationRole>
+                    </PREMIS:copyrightDocumentationIdentifier> 
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:rightsMD>
+        
+        <mets:rightsMD ID="VIGI1_DIG01_Rights1">
+            <mets:mdWrap MDTYPE="PREMIS:RIGHTS" MDTYPEVERSION="3.0">
+                <mets:xmlData>
+                    <PREMIS:rightsBasis authority="rightsBasis" valueURI="http://id.loc.gov/vocabulary/preservation/rightsBasis" authorityURI="http://id.loc.gov/vocabulary/preservation/rightsBasis/oth">oth</PREMIS:rightsBasis>
+                    <PREMIS:copyrightStatus>publicdomain</PREMIS:copyrightStatus>
+                </mets:xmlData>
+            </mets:mdWrap>  
+        </mets:rightsMD>
+        
+        <mets:sourceMD ID="VIGI1_Source1">
+            <mets:mdWrap MDTYPE="OTHER" OTHERMDTYPE="TEI" MDTYPEVERSION="5">
+                <mets:xmlData>
+                    <TEI:bibl>https://catalog.hathitrust.org/Record/100319133</TEI:bibl>
+                    <TEI:bibl>https://hdl.handle.net/2027/uiuc.6013749?urlappend=%3Bseq=7</TEI:bibl>
+                    <TEI:bibl>http://emblematica.library.illinois.edu/detail/book/6013749</TEI:bibl>
+                    <TEI:bibl>https://vufind.carli.illinois.edu/vf-uiu/Record/uiu_5418179</TEI:bibl>
+                </mets:xmlData>
+            </mets:mdWrap>
+        </mets:sourceMD>
+        
+        <mets:digiprovMD ID="VIGI1_DIG01_Prov1">
+            <mets:mdWrap MDTYPE="OTHER" MDTYPEVERSION="P5" OTHERMDTYPE="TEI">
+                <mets:xmlData>
+                    <TEI:history>
+                    <TEI:origin>Originally published by Sumptibus Joannis Baptistae Mayr, aulico. acad. typogr. and bibliopolae
+                        at Universitèat Salzburg, Austria in 1700</TEI:origin>
+                    </TEI:history>
+                </mets:xmlData>
+            </mets:mdWrap>  
+        </mets:digiprovMD>
+     </mets:amdSec> 
+        
+    <mets:fileSec>
+        <mets:fileGrp USE="screen" ID="VIGI1_file_screen_1">
+            <mets:file ID="Digital_1_screen" GROUPID="Digital_1" MIMETYPE="image/jpeg" SEQ="1" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=1"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_2_screen" GROUPID="Digital_2" MIMETYPE="image/jpeg" SEQ="2" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=2"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_3_screen" GROUPID="Digital_3" MIMETYPE="image/jpeg" SEQ="3" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=3"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_4_screen" GROUPID="Digital_4" MIMETYPE="image/jpeg" SEQ="4" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=4"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_5_screen" GROUPID="Digital_5" MIMETYPE="image/jpeg" SEQ="5" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=5"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_6_screen" GROUPID="Digital_6" MIMETYPE="image/jpeg" SEQ="6" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=6"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_7_screen" GROUPID="Digital_7" MIMETYPE="image/jpeg" SEQ="7" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=7"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_8_screen" GROUPID="Digital_8" MIMETYPE="image/jpeg" SEQ="8" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=8"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_9_screen" GROUPID="Digital_9" MIMETYPE="image/jpeg" SEQ="9" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=9"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_10_screen" GROUPID="Digital_10" MIMETYPE="image/jpeg" SEQ="10" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=10"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_11_screen" GROUPID="Digital_11" MIMETYPE="image/jpeg" SEQ="11" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=11"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_12_screen" GROUPID="Digital_12" MIMETYPE="image/jpeg" SEQ="12" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=12"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_13_screen" GROUPID="Digital_13" MIMETYPE="image/jpeg" SEQ="13" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=13"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_14_screen" GROUPID="Digital_14" MIMETYPE="image/jpeg" SEQ="14" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=14"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_15_screen" GROUPID="Digital_15" MIMETYPE="image/jpeg" SEQ="15" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=15"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_16_screen" GROUPID="Digital_16" MIMETYPE="image/jpeg" SEQ="16" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=16"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_17_screen" GROUPID="Digital_17" MIMETYPE="image/jpeg" SEQ="17" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=17"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_18_screen" GROUPID="Digital_18" MIMETYPE="image/jpeg" SEQ="18" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=18"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_19_screen" GROUPID="Digital_19" MIMETYPE="image/jpeg" SEQ="19" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=19"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_20_screen" GROUPID="Digital_20" MIMETYPE="image/jpeg" SEQ="20" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=20"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_21_screen" GROUPID="Digital_21" MIMETYPE="image/jpeg" SEQ="21" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=21"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_22_screen" GROUPID="Digital_22" MIMETYPE="image/jpeg" SEQ="22" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=22"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_23_screen" GROUPID="Digital_23" MIMETYPE="image/jpeg" SEQ="23" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=23"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_24_screen" GROUPID="Digital_24" MIMETYPE="image/jpeg" SEQ="24" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=24"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_25_screen" GROUPID="Digital_25" MIMETYPE="image/jpeg" SEQ="25" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=25"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_26_screen" GROUPID="Digital_26" MIMETYPE="image/jpeg" SEQ="26" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=26"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_27_screen" GROUPID="Digital_27" MIMETYPE="image/jpeg" SEQ="27" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=27"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_28_screen" GROUPID="Digital_28" MIMETYPE="image/jpeg" SEQ="28" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=28"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_29_screen" GROUPID="Digital_29" MIMETYPE="image/jpeg" SEQ="29" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=29"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_30_screen" GROUPID="Digital_30" MIMETYPE="image/jpeg" SEQ="30" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=30"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_31_screen" GROUPID="Digital_31" MIMETYPE="image/jpeg" SEQ="31" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=31"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_32_screen" GROUPID="Digital_32" MIMETYPE="image/jpeg" SEQ="32" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=32"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_33_screen" GROUPID="Digital_33" MIMETYPE="image/jpeg" SEQ="33" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=33"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_34_screen" GROUPID="Digital_34" MIMETYPE="image/jpeg" SEQ="34" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=34"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_35_screen" GROUPID="Digital_35" MIMETYPE="image/jpeg" SEQ="35" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=35"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_36_screen" GROUPID="Digital_36" MIMETYPE="image/jpeg" SEQ="36" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=36"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_37_screen" GROUPID="Digital_37" MIMETYPE="image/jpeg" SEQ="37" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=37"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_38_screen" GROUPID="Digital_38" MIMETYPE="image/jpeg" SEQ="38" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=38"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_39_screen" GROUPID="Digital_39" MIMETYPE="image/jpeg" SEQ="39" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=39"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_40_screen" GROUPID="Digital_40" MIMETYPE="image/jpeg" SEQ="40" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=40"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_41_screen" GROUPID="Digital_41" MIMETYPE="image/jpeg" SEQ="41" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=41"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_42_screen" GROUPID="Digital_42" MIMETYPE="image/jpeg" SEQ="42" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=42"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_43_screen" GROUPID="Digital_43" MIMETYPE="image/jpeg" SEQ="43" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=43"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_44_screen" GROUPID="Digital_44" MIMETYPE="image/jpeg" SEQ="44" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=44"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_45_screen" GROUPID="Digital_45" MIMETYPE="image/jpeg" SEQ="45" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=45"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_46_screen" GROUPID="Digital_46" MIMETYPE="image/jpeg" SEQ="46" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=46"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_47_screen" GROUPID="Digital_47" MIMETYPE="image/jpeg" SEQ="47" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=47"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_48_screen" GROUPID="Digital_48" MIMETYPE="image/jpeg" SEQ="48" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=48"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_49_screen" GROUPID="Digital_49" MIMETYPE="image/jpeg" SEQ="49" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=49"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_50_screen" GROUPID="Digital_50" MIMETYPE="image/jpeg" SEQ="50" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=50"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_51_screen" GROUPID="Digital_51" MIMETYPE="image/jpeg" SEQ="51" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=51"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_52_screen" GROUPID="Digital_52" MIMETYPE="image/jpeg" SEQ="52" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=52"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_53_screen" GROUPID="Digital_53" MIMETYPE="image/jpeg" SEQ="53" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=53"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_54_screen" GROUPID="Digital_54" MIMETYPE="image/jpeg" SEQ="54" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=54"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_55_screen" GROUPID="Digital_55" MIMETYPE="image/jpeg" SEQ="55" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=55"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_56_screen" GROUPID="Digital_56" MIMETYPE="image/jpeg" SEQ="56" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=56"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_57_screen" GROUPID="Digital_57" MIMETYPE="image/jpeg" SEQ="57" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=57"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_58_screen" GROUPID="Digital_58" MIMETYPE="image/jpeg" SEQ="58" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=58"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_59_screen" GROUPID="Digital_59" MIMETYPE="image/jpeg" SEQ="59" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=59"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_60_screen" GROUPID="Digital_60" MIMETYPE="image/jpeg" SEQ="60" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=60"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_61_screen" GROUPID="Digital_61" MIMETYPE="image/jpeg" SEQ="61" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=61"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_62_screen" GROUPID="Digital_62" MIMETYPE="image/jpeg" SEQ="62" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=62"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_63_screen" GROUPID="Digital_63" MIMETYPE="image/jpeg" SEQ="63" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=63"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_64_screen" GROUPID="Digital_64" MIMETYPE="image/jpeg" SEQ="64" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=64"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_65_screen" GROUPID="Digital_65" MIMETYPE="image/jpeg" SEQ="65" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=65"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_66_screen" GROUPID="Digital_66" MIMETYPE="image/jpeg" SEQ="66" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=66"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_67_screen" GROUPID="Digital_67" MIMETYPE="image/jpeg" SEQ="67" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=67"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_68_screen" GROUPID="Digital_68" MIMETYPE="image/jpeg" SEQ="68" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=68"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_69_screen" GROUPID="Digital_69" MIMETYPE="image/jpeg" SEQ="69" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=69"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_70_screen" GROUPID="Digital_70" MIMETYPE="image/jpeg" SEQ="70" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=70"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_71_screen" GROUPID="Digital_71" MIMETYPE="image/jpeg" SEQ="71" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=71"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_72_screen" GROUPID="Digital_72" MIMETYPE="image/jpeg" SEQ="72" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=72"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_73_screen" GROUPID="Digital_73" MIMETYPE="image/jpeg" SEQ="73" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=73"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_74_screen" GROUPID="Digital_74" MIMETYPE="image/jpeg" SEQ="74" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=74"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_75_screen" GROUPID="Digital_75" MIMETYPE="image/jpeg" SEQ="75" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=75"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_76_screen" GROUPID="Digital_76" MIMETYPE="image/jpeg" SEQ="76" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=76"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_77_screen" GROUPID="Digital_77" MIMETYPE="image/jpeg" SEQ="77" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=77"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_78_screen" GROUPID="Digital_78" MIMETYPE="image/jpeg" SEQ="78" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=78"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_79_screen" GROUPID="Digital_79" MIMETYPE="image/jpeg" SEQ="79" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=79"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_80_screen" GROUPID="Digital_80" MIMETYPE="image/jpeg" SEQ="80" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=80"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_81_screen" GROUPID="Digital_81" MIMETYPE="image/jpeg" SEQ="81" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=81"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_82_screen" GROUPID="Digital_82" MIMETYPE="image/jpeg" SEQ="82" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=82"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_83_screen" GROUPID="Digital_83" MIMETYPE="image/jpeg" SEQ="83" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=83"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_84_screen" GROUPID="Digital_84" MIMETYPE="image/jpeg" SEQ="84" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=84"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_85_screen" GROUPID="Digital_85" MIMETYPE="image/jpeg" SEQ="85" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=85"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_86_screen" GROUPID="Digital_86" MIMETYPE="image/jpeg" SEQ="86" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=86"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_87_screen" GROUPID="Digital_87" MIMETYPE="image/jpeg" SEQ="87" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=87"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_88_screen" GROUPID="Digital_88" MIMETYPE="image/jpeg" SEQ="88" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=88"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_89_screen" GROUPID="Digital_89" MIMETYPE="image/jpeg" SEQ="89" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=89"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_90_screen" GROUPID="Digital_90" MIMETYPE="image/jpeg" SEQ="90" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=90"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_91_screen" GROUPID="Digital_91" MIMETYPE="image/jpeg" SEQ="91" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=91"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_92_screen" GROUPID="Digital_92" MIMETYPE="image/jpeg" SEQ="92" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=92"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_93_screen" GROUPID="Digital_93" MIMETYPE="image/jpeg" SEQ="93" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=93"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_94_screen" GROUPID="Digital_94" MIMETYPE="image/jpeg" SEQ="94" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=94"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_95_screen" GROUPID="Digital_95" MIMETYPE="image/jpeg" SEQ="95" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=95"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_96_screen" GROUPID="Digital_96" MIMETYPE="image/jpeg" SEQ="96" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=96"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_97_screen" GROUPID="Digital_97" MIMETYPE="image/jpeg" SEQ="97" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=97"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_98_screen" GROUPID="Digital_98" MIMETYPE="image/jpeg" SEQ="98" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=98"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_99_screen" GROUPID="Digital_99" MIMETYPE="image/jpeg" SEQ="99" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=99"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_100_screen" GROUPID="Digital_100" MIMETYPE="image/jpeg" SEQ="100" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=100"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_101_screen" GROUPID="Digital_101" MIMETYPE="image/jpeg" SEQ="101" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=101"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_102_screen" GROUPID="Digital_102" MIMETYPE="image/jpeg" SEQ="102" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=102"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_103_screen" GROUPID="Digital_103" MIMETYPE="image/jpeg" SEQ="103" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=103"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_104_screen" GROUPID="Digital_104" MIMETYPE="image/jpeg" SEQ="104" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=104"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_105_screen" GROUPID="Digital_105" MIMETYPE="image/jpeg" SEQ="105" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=105"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_106_screen" GROUPID="Digital_106" MIMETYPE="image/jpeg" SEQ="106" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=106"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_107_screen" GROUPID="Digital_107" MIMETYPE="image/jpeg" SEQ="107" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=107"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_108_screen" GROUPID="Digital_108" MIMETYPE="image/jpeg" SEQ="108" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=108"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_109_screen" GROUPID="Digital_109" MIMETYPE="image/jpeg" SEQ="109" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=109"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_110_screen" GROUPID="Digital_110" MIMETYPE="image/jpeg" SEQ="110" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=110"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_111_screen" GROUPID="Digital_111" MIMETYPE="image/jpeg" SEQ="111" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=111"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_112_screen" GROUPID="Digital_112" MIMETYPE="image/jpeg" SEQ="112" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=112"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_113_screen" GROUPID="Digital_113" MIMETYPE="image/jpeg" SEQ="113" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=113"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_114_screen" GROUPID="Digital_114" MIMETYPE="image/jpeg" SEQ="114" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=114"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_115_screen" GROUPID="Digital_115" MIMETYPE="image/jpeg" SEQ="115" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=115"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_116_screen" GROUPID="Digital_116" MIMETYPE="image/jpeg" SEQ="116" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=116"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_117_screen" GROUPID="Digital_117" MIMETYPE="image/jpeg" SEQ="117" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=117"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_118_screen" GROUPID="Digital_118" MIMETYPE="image/jpeg" SEQ="118" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=118"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_119_screen" GROUPID="Digital_119" MIMETYPE="image/jpeg" SEQ="119" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=119"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_120_screen" GROUPID="Digital_120" MIMETYPE="image/jpeg" SEQ="120" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=120"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_121_screen" GROUPID="Digital_121" MIMETYPE="image/jpeg" SEQ="121" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=121"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_122_screen" GROUPID="Digital_122" MIMETYPE="image/jpeg" SEQ="122" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=122"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_123_screen" GROUPID="Digital_123" MIMETYPE="image/jpeg" SEQ="123" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=123"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_124_screen" GROUPID="Digital_124" MIMETYPE="image/jpeg" SEQ="124" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=124"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_125_screen" GROUPID="Digital_125" MIMETYPE="image/jpeg" SEQ="125" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=125"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_126_screen" GROUPID="Digital_126" MIMETYPE="image/jpeg" SEQ="126" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=126"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_127_screen" GROUPID="Digital_127" MIMETYPE="image/jpeg" SEQ="127" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=127"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_128_screen" GROUPID="Digital_128" MIMETYPE="image/jpeg" SEQ="128" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=128"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_129_screen" GROUPID="Digital_129" MIMETYPE="image/jpeg" SEQ="129" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=129"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_130_screen" GROUPID="Digital_130" MIMETYPE="image/jpeg" SEQ="130" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=130"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_131_screen" GROUPID="Digital_131" MIMETYPE="image/jpeg" SEQ="131" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=131"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_132_screen" GROUPID="Digital_132" MIMETYPE="image/jpeg" SEQ="132" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=132"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_133_screen" GROUPID="Digital_133" MIMETYPE="image/jpeg" SEQ="133" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=133"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_134_screen" GROUPID="Digital_134" MIMETYPE="image/jpeg" SEQ="134" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=134"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_135_screen" GROUPID="Digital_135" MIMETYPE="image/jpeg" SEQ="135" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=135"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_136_screen" GROUPID="Digital_136" MIMETYPE="image/jpeg" SEQ="136" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=136"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_137_screen" GROUPID="Digital_137" MIMETYPE="image/jpeg" SEQ="137" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=137"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_138_screen" GROUPID="Digital_138" MIMETYPE="image/jpeg" SEQ="138" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=138"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_139_screen" GROUPID="Digital_139" MIMETYPE="image/jpeg" SEQ="139" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=139"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_140_screen" GROUPID="Digital_140" MIMETYPE="image/jpeg" SEQ="140" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=140"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_141_screen" GROUPID="Digital_141" MIMETYPE="image/jpeg" SEQ="141" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=141"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_142_screen" GROUPID="Digital_142" MIMETYPE="image/jpeg" SEQ="142" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=142"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_143_screen" GROUPID="Digital_143" MIMETYPE="image/jpeg" SEQ="143" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=143"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_144_screen" GROUPID="Digital_144" MIMETYPE="image/jpeg" SEQ="144" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=144"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_145_screen" GROUPID="Digital_145" MIMETYPE="image/jpeg" SEQ="145" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=145"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_146_screen" GROUPID="Digital_146" MIMETYPE="image/jpeg" SEQ="146" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=146"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_147_screen" GROUPID="Digital_147" MIMETYPE="image/jpeg" SEQ="147" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=147"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_148_screen" GROUPID="Digital_148" MIMETYPE="image/jpeg" SEQ="148" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=148"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_149_screen" GROUPID="Digital_149" MIMETYPE="image/jpeg" SEQ="149" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=149"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_150_screen" GROUPID="Digital_150" MIMETYPE="image/jpeg" SEQ="150" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=150"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_151_screen" GROUPID="Digital_151" MIMETYPE="image/jpeg" SEQ="151" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=151"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_152_screen" GROUPID="Digital_152" MIMETYPE="image/jpeg" SEQ="152" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=152"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_153_screen" GROUPID="Digital_153" MIMETYPE="image/jpeg" SEQ="153" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=153"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_154_screen" GROUPID="Digital_154" MIMETYPE="image/jpeg" SEQ="154" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=154"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_155_screen" GROUPID="Digital_155" MIMETYPE="image/jpeg" SEQ="155" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=155"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_156_screen" GROUPID="Digital_156" MIMETYPE="image/jpeg" SEQ="156" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=156"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_157_screen" GROUPID="Digital_157" MIMETYPE="image/jpeg" SEQ="157" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=157"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_158_screen" GROUPID="Digital_158" MIMETYPE="image/jpeg" SEQ="158" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=158"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_159_screen" GROUPID="Digital_159" MIMETYPE="image/jpeg" SEQ="159" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=159"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_160_screen" GROUPID="Digital_160" MIMETYPE="image/jpeg" SEQ="160" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=160"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_161_screen" GROUPID="Digital_161" MIMETYPE="image/jpeg" SEQ="161" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=161"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_162_screen" GROUPID="Digital_162" MIMETYPE="image/jpeg" SEQ="162" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=162"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_163_screen" GROUPID="Digital_163" MIMETYPE="image/jpeg" SEQ="163" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=163"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_164_screen" GROUPID="Digital_164" MIMETYPE="image/jpeg" SEQ="164" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=164"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_165_screen" GROUPID="Digital_165" MIMETYPE="image/jpeg" SEQ="165" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=165"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_166_screen" GROUPID="Digital_166" MIMETYPE="image/jpeg" SEQ="166" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=166"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_167_screen" GROUPID="Digital_167" MIMETYPE="image/jpeg" SEQ="167" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=167"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_168_screen" GROUPID="Digital_168" MIMETYPE="image/jpeg" SEQ="168" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=168"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_169_screen" GROUPID="Digital_169" MIMETYPE="image/jpeg" SEQ="169" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=169"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_170_screen" GROUPID="Digital_170" MIMETYPE="image/jpeg" SEQ="170" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=170"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_171_screen" GROUPID="Digital_171" MIMETYPE="image/jpeg" SEQ="171" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=171"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_172_screen" GROUPID="Digital_172" MIMETYPE="image/jpeg" SEQ="172" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=172"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_173_screen" GROUPID="Digital_173" MIMETYPE="image/jpeg" SEQ="173" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=173"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_174_screen" GROUPID="Digital_174" MIMETYPE="image/jpeg" SEQ="174" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=174"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_175_screen" GROUPID="Digital_175" MIMETYPE="image/jpeg" SEQ="175" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=175"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_176_screen" GROUPID="Digital_176" MIMETYPE="image/jpeg" SEQ="176" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=176"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_177_screen" GROUPID="Digital_177" MIMETYPE="image/jpeg" SEQ="177" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=177"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_178_screen" GROUPID="Digital_178" MIMETYPE="image/jpeg" SEQ="178" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=178"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_179_screen" GROUPID="Digital_179" MIMETYPE="image/jpeg" SEQ="179" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=179"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_180_screen" GROUPID="Digital_180" MIMETYPE="image/jpeg" SEQ="180" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=180"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_181_screen" GROUPID="Digital_181" MIMETYPE="image/jpeg" SEQ="181" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=181"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_182_screen" GROUPID="Digital_182" MIMETYPE="image/jpeg" SEQ="182" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=182"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_183_screen" GROUPID="Digital_183" MIMETYPE="image/jpeg" SEQ="183" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=183"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_184_screen" GROUPID="Digital_184" MIMETYPE="image/jpeg" SEQ="184" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=184"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_185_screen" GROUPID="Digital_185" MIMETYPE="image/jpeg" SEQ="185" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=185"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_186_screen" GROUPID="Digital_186" MIMETYPE="image/jpeg" SEQ="186" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=186"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_187_screen" GROUPID="Digital_187" MIMETYPE="image/jpeg" SEQ="187" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=187"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_188_screen" GROUPID="Digital_188" MIMETYPE="image/jpeg" SEQ="188" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=188"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_189_screen" GROUPID="Digital_189" MIMETYPE="image/jpeg" SEQ="189" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=189"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_190_screen" GROUPID="Digital_190" MIMETYPE="image/jpeg" SEQ="190" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=190"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_191_screen" GROUPID="Digital_191" MIMETYPE="image/jpeg" SEQ="191" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=191"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_192_screen" GROUPID="Digital_192" MIMETYPE="image/jpeg" SEQ="192" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=192"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_193_screen" GROUPID="Digital_193" MIMETYPE="image/jpeg" SEQ="193" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=193"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_194_screen" GROUPID="Digital_194" MIMETYPE="image/jpeg" SEQ="194" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=194"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_195_screen" GROUPID="Digital_195" MIMETYPE="image/jpeg" SEQ="195" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=195"></mets:FLocat></mets:file>
+            <mets:file ID="Digital_196_screen" GROUPID="Digital_196" MIMETYPE="image/jpeg" SEQ="196" USE="screen"><mets:FLocat LOCTYPE="URL" xlink:href="https://babel.hathitrust.org/cgi/pt?id=uiuc.6013749&amp;view=1up&amp;seq=196"></mets:FLocat></mets:file>
+        </mets:fileGrp>
+        
+        <mets:fileGrp USE="printable">
+            <mets:file ID="VIGI1_Digital_printable" MIMETYPE="application/pdf" USE="printable">
+                <mets:FLocat LOCTYPE="URL" xlink:href="file:///C:/Users/hengj/Downloads/uiuc.6013749-1576443704.pdf"/> <!-- local copy -->
+            </mets:file>
+        </mets:fileGrp>
+        
+    </mets:fileSec>
+    
+    <mets:structMap LABEL="VIGI1_PHYS01_StructMap_Physical_copy" ID="VIGI1_StructMap_Physical" TYPE="logical">
+        <mets:div>
+            <mets:div LABEL="_Des" ID="VIGI1_StructMap_Physical_des">
+                <mets:div LABEL="_DC" ID="VIGI1_Struct_PHYS01_des_DC_1" DMDID="VIGI1_PHYS01_DMD1" />
+                <mets:div LABEL="_TEI" ID="VIGI1_Struct_PHYS01_des_TEI_1" DMDID="VIGI1_PHYS01_DMD2"/>
+            </mets:div>
+            <mets:div LABEL="_Admin" ID="VIGI1_StructMap_Physical_admin">
+                <mets:div LABEL="_Rights" ID="VIGI1_Struct_PHYS01_Rights_1" ADMID="VIGI1_PHYS01_Rights1"/>
+            </mets:div>
+        </mets:div>  
+    </mets:structMap>
+    
+    <mets:structMap LABEL="VIGI1_DIG01_StructMap_digital_surragates" ID="VIGI1_StructMap_Digital" TYPE="logical">
+        <mets:div>
+            <mets:div LABEL="_Des" ID="VIGI1_StructMap_Digital_des">
+                <mets:div LABEL="_DC" ID="VIGI1_Struct_Digital_des_DC_1" DMDID="VIGI1_DIG01_DMD1"/>
+                <mets:div LABEL="_TEI" ID="VIGI1_Struct_Digital_des_Premis_1" DMDID="VIGI1_DIG01_DMD2"/>
+            </mets:div>
+            <mets:div LABEL="_Admin" ID="VIGI1_StructMap_Digital_admin">
+                <mets:div LABEL="_Rights" ID="VIGI1_Struct_DIG01_Rights1" ADMID="VIGI1_DIG01_Rights1"/>
+                <mets:div LABEL="_DigiProv" ID="VIGI1_Struct_DIG01_Prov1" ADMID="VIGI1_DIG01_Prov1"></mets:div>
+            </mets:div>
+        </mets:div>  
+    </mets:structMap>
+    
+    
+    <mets:structMap LABEL="VIGI1_DIG_StructMap_digital_files" ID="VIGI1_StructMap_digital_files" TYPE="physical">
+        <mets:div>
+            <mets:div LABEL="_screen_view">
+                <mets:div TYPE="page" ORDER="1" ORDERLABEL="[]"><mets:fptr FILEID="Digital_1_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="2" ORDERLABEL="[]"><mets:fptr FILEID="Digital_2_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="3" ORDERLABEL="[]"><mets:fptr FILEID="Digital_3_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="4" ORDERLABEL="[]"><mets:fptr FILEID="Digital_4_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="5" ORDERLABEL="[]"><mets:fptr FILEID="Digital_5_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="6" ORDERLABEL="[]"><mets:fptr FILEID="Digital_6_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="7" ORDERLABEL="[]"><mets:fptr FILEID="Digital_7_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="8" ORDERLABEL="[]"><mets:fptr FILEID="Digital_8_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="9" ORDERLABEL="[]"><mets:fptr FILEID="Digital_9_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="10" ORDERLABEL="[]"><mets:fptr FILEID="Digital_10_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="11" ORDERLABEL="[]"><mets:fptr FILEID="Digital_11_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="12" ORDERLABEL="[]"><mets:fptr FILEID="Digital_12_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="13" ORDERLABEL="[]"><mets:fptr FILEID="Digital_13_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="14" ORDERLABEL="[]"><mets:fptr FILEID="Digital_14_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="15" ORDERLABEL="[]"><mets:fptr FILEID="Digital_15_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="16" ORDERLABEL="[]"><mets:fptr FILEID="Digital_16_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="17" ORDERLABEL="[]"><mets:fptr FILEID="Digital_17_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="18" ORDERLABEL="[]"><mets:fptr FILEID="Digital_18_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="19" ORDERLABEL="[]"><mets:fptr FILEID="Digital_19_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="20" ORDERLABEL="[]"><mets:fptr FILEID="Digital_20_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="21" ORDERLABEL="[]"><mets:fptr FILEID="Digital_21_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="22" ORDERLABEL="[]"><mets:fptr FILEID="Digital_22_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="23" ORDERLABEL="[]"><mets:fptr FILEID="Digital_23_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="24" ORDERLABEL="[]"><mets:fptr FILEID="Digital_24_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="25" ORDERLABEL="[]"><mets:fptr FILEID="Digital_25_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="26" ORDERLABEL="[]"><mets:fptr FILEID="Digital_26_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="27" ORDERLABEL="[]"><mets:fptr FILEID="Digital_27_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="28" ORDERLABEL="[]"><mets:fptr FILEID="Digital_28_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="29" ORDERLABEL="[]"><mets:fptr FILEID="Digital_29_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="30" ORDERLABEL="[]"><mets:fptr FILEID="Digital_30_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="31" ORDERLABEL="[]"><mets:fptr FILEID="Digital_31_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="32" ORDERLABEL="[]"><mets:fptr FILEID="Digital_32_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="33" ORDERLABEL="[]"><mets:fptr FILEID="Digital_33_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="34" ORDERLABEL="[]"><mets:fptr FILEID="Digital_34_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="35" ORDERLABEL="[]"><mets:fptr FILEID="Digital_35_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="36" ORDERLABEL="[]"><mets:fptr FILEID="Digital_36_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="37" ORDERLABEL="[]"><mets:fptr FILEID="Digital_37_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="38" ORDERLABEL="[]"><mets:fptr FILEID="Digital_38_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="39" ORDERLABEL="[]"><mets:fptr FILEID="Digital_39_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="40" ORDERLABEL="[]"><mets:fptr FILEID="Digital_40_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="41" ORDERLABEL="[]"><mets:fptr FILEID="Digital_41_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="42" ORDERLABEL="[]"><mets:fptr FILEID="Digital_42_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="43" ORDERLABEL="[]"><mets:fptr FILEID="Digital_43_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="44" ORDERLABEL="[]"><mets:fptr FILEID="Digital_44_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="45" ORDERLABEL="[]"><mets:fptr FILEID="Digital_45_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="46" ORDERLABEL="[]"><mets:fptr FILEID="Digital_46_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="47" ORDERLABEL="[]"><mets:fptr FILEID="Digital_47_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="48" ORDERLABEL="[]"><mets:fptr FILEID="Digital_48_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="49" ORDERLABEL="[]"><mets:fptr FILEID="Digital_49_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="50" ORDERLABEL="[]"><mets:fptr FILEID="Digital_50_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="51" ORDERLABEL="[]"><mets:fptr FILEID="Digital_51_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="52" ORDERLABEL="[]"><mets:fptr FILEID="Digital_52_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="53" ORDERLABEL="[]"><mets:fptr FILEID="Digital_53_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="54" ORDERLABEL="[]"><mets:fptr FILEID="Digital_54_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="55" ORDERLABEL="[]"><mets:fptr FILEID="Digital_55_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="56" ORDERLABEL="[]"><mets:fptr FILEID="Digital_56_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="57" ORDERLABEL="[]"><mets:fptr FILEID="Digital_57_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="58" ORDERLABEL="[]"><mets:fptr FILEID="Digital_58_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="59" ORDERLABEL="[]"><mets:fptr FILEID="Digital_59_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="60" ORDERLABEL="[]"><mets:fptr FILEID="Digital_60_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="61" ORDERLABEL="[]"><mets:fptr FILEID="Digital_61_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="62" ORDERLABEL="[]"><mets:fptr FILEID="Digital_62_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="63" ORDERLABEL="[]"><mets:fptr FILEID="Digital_63_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="64" ORDERLABEL="[]"><mets:fptr FILEID="Digital_64_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="65" ORDERLABEL="[]"><mets:fptr FILEID="Digital_65_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="66" ORDERLABEL="[]"><mets:fptr FILEID="Digital_66_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="67" ORDERLABEL="[]"><mets:fptr FILEID="Digital_67_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="68" ORDERLABEL="[]"><mets:fptr FILEID="Digital_68_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="69" ORDERLABEL="[]"><mets:fptr FILEID="Digital_69_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="70" ORDERLABEL="[]"><mets:fptr FILEID="Digital_70_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="71" ORDERLABEL="[]"><mets:fptr FILEID="Digital_71_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="72" ORDERLABEL="[]"><mets:fptr FILEID="Digital_72_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="73" ORDERLABEL="[]"><mets:fptr FILEID="Digital_73_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="74" ORDERLABEL="[]"><mets:fptr FILEID="Digital_74_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="75" ORDERLABEL="[]"><mets:fptr FILEID="Digital_75_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="76" ORDERLABEL="[]"><mets:fptr FILEID="Digital_76_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="77" ORDERLABEL="[]"><mets:fptr FILEID="Digital_77_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="78" ORDERLABEL="[]"><mets:fptr FILEID="Digital_78_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="79" ORDERLABEL="[]"><mets:fptr FILEID="Digital_79_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="80" ORDERLABEL="[]"><mets:fptr FILEID="Digital_80_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="81" ORDERLABEL="[]"><mets:fptr FILEID="Digital_81_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="82" ORDERLABEL="[]"><mets:fptr FILEID="Digital_82_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="83" ORDERLABEL="[]"><mets:fptr FILEID="Digital_83_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="84" ORDERLABEL="[]"><mets:fptr FILEID="Digital_84_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="85" ORDERLABEL="[]"><mets:fptr FILEID="Digital_85_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="86" ORDERLABEL="[]"><mets:fptr FILEID="Digital_86_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="87" ORDERLABEL="[]"><mets:fptr FILEID="Digital_87_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="88" ORDERLABEL="[]"><mets:fptr FILEID="Digital_88_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="89" ORDERLABEL="[]"><mets:fptr FILEID="Digital_89_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="90" ORDERLABEL="[]"><mets:fptr FILEID="Digital_90_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="91" ORDERLABEL="[]"><mets:fptr FILEID="Digital_91_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="92" ORDERLABEL="[]"><mets:fptr FILEID="Digital_92_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="93" ORDERLABEL="[]"><mets:fptr FILEID="Digital_93_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="94" ORDERLABEL="[]"><mets:fptr FILEID="Digital_94_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="95" ORDERLABEL="[]"><mets:fptr FILEID="Digital_95_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="96" ORDERLABEL="[]"><mets:fptr FILEID="Digital_96_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="97" ORDERLABEL="[]"><mets:fptr FILEID="Digital_97_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="98" ORDERLABEL="[]"><mets:fptr FILEID="Digital_98_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="99" ORDERLABEL="[]"><mets:fptr FILEID="Digital_99_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="100" ORDERLABEL="[]"><mets:fptr FILEID="Digital_100_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="101" ORDERLABEL="[]"><mets:fptr FILEID="Digital_101_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="102" ORDERLABEL="[]"><mets:fptr FILEID="Digital_102_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="103" ORDERLABEL="[]"><mets:fptr FILEID="Digital_103_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="104" ORDERLABEL="[]"><mets:fptr FILEID="Digital_104_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="105" ORDERLABEL="[]"><mets:fptr FILEID="Digital_105_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="106" ORDERLABEL="[]"><mets:fptr FILEID="Digital_106_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="107" ORDERLABEL="[]"><mets:fptr FILEID="Digital_107_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="108" ORDERLABEL="[]"><mets:fptr FILEID="Digital_108_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="109" ORDERLABEL="[]"><mets:fptr FILEID="Digital_109_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="110" ORDERLABEL="[]"><mets:fptr FILEID="Digital_110_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="111" ORDERLABEL="[]"><mets:fptr FILEID="Digital_111_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="112" ORDERLABEL="[]"><mets:fptr FILEID="Digital_112_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="113" ORDERLABEL="[]"><mets:fptr FILEID="Digital_113_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="114" ORDERLABEL="[]"><mets:fptr FILEID="Digital_114_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="115" ORDERLABEL="[]"><mets:fptr FILEID="Digital_115_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="116" ORDERLABEL="[]"><mets:fptr FILEID="Digital_116_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="117" ORDERLABEL="[]"><mets:fptr FILEID="Digital_117_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="118" ORDERLABEL="[]"><mets:fptr FILEID="Digital_118_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="119" ORDERLABEL="[]"><mets:fptr FILEID="Digital_119_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="120" ORDERLABEL="[]"><mets:fptr FILEID="Digital_120_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="121" ORDERLABEL="[]"><mets:fptr FILEID="Digital_121_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="122" ORDERLABEL="[]"><mets:fptr FILEID="Digital_122_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="123" ORDERLABEL="[]"><mets:fptr FILEID="Digital_123_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="124" ORDERLABEL="[]"><mets:fptr FILEID="Digital_124_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="125" ORDERLABEL="[]"><mets:fptr FILEID="Digital_125_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="126" ORDERLABEL="[]"><mets:fptr FILEID="Digital_126_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="127" ORDERLABEL="[]"><mets:fptr FILEID="Digital_127_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="128" ORDERLABEL="[]"><mets:fptr FILEID="Digital_128_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="129" ORDERLABEL="[]"><mets:fptr FILEID="Digital_129_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="130" ORDERLABEL="[]"><mets:fptr FILEID="Digital_130_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="131" ORDERLABEL="[]"><mets:fptr FILEID="Digital_131_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="132" ORDERLABEL="[]"><mets:fptr FILEID="Digital_132_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="133" ORDERLABEL="[]"><mets:fptr FILEID="Digital_133_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="134" ORDERLABEL="[]"><mets:fptr FILEID="Digital_134_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="135" ORDERLABEL="[]"><mets:fptr FILEID="Digital_135_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="136" ORDERLABEL="[]"><mets:fptr FILEID="Digital_136_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="137" ORDERLABEL="[]"><mets:fptr FILEID="Digital_137_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="138" ORDERLABEL="[]"><mets:fptr FILEID="Digital_138_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="139" ORDERLABEL="[]"><mets:fptr FILEID="Digital_139_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="140" ORDERLABEL="[]"><mets:fptr FILEID="Digital_140_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="141" ORDERLABEL="[]"><mets:fptr FILEID="Digital_141_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="142" ORDERLABEL="[]"><mets:fptr FILEID="Digital_142_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="143" ORDERLABEL="[]"><mets:fptr FILEID="Digital_143_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="144" ORDERLABEL="[]"><mets:fptr FILEID="Digital_144_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="145" ORDERLABEL="[]"><mets:fptr FILEID="Digital_145_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="146" ORDERLABEL="[]"><mets:fptr FILEID="Digital_146_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="147" ORDERLABEL="[]"><mets:fptr FILEID="Digital_147_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="148" ORDERLABEL="[]"><mets:fptr FILEID="Digital_148_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="149" ORDERLABEL="[]"><mets:fptr FILEID="Digital_149_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="150" ORDERLABEL="[]"><mets:fptr FILEID="Digital_150_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="151" ORDERLABEL="[]"><mets:fptr FILEID="Digital_151_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="152" ORDERLABEL="[]"><mets:fptr FILEID="Digital_152_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="153" ORDERLABEL="[]"><mets:fptr FILEID="Digital_153_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="154" ORDERLABEL="[]"><mets:fptr FILEID="Digital_154_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="155" ORDERLABEL="[]"><mets:fptr FILEID="Digital_155_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="156" ORDERLABEL="[]"><mets:fptr FILEID="Digital_156_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="157" ORDERLABEL="[]"><mets:fptr FILEID="Digital_157_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="158" ORDERLABEL="[]"><mets:fptr FILEID="Digital_158_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="159" ORDERLABEL="[]"><mets:fptr FILEID="Digital_159_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="160" ORDERLABEL="[]"><mets:fptr FILEID="Digital_160_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="161" ORDERLABEL="[]"><mets:fptr FILEID="Digital_161_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="162" ORDERLABEL="[]"><mets:fptr FILEID="Digital_162_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="163" ORDERLABEL="[]"><mets:fptr FILEID="Digital_163_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="164" ORDERLABEL="[]"><mets:fptr FILEID="Digital_164_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="165" ORDERLABEL="[]"><mets:fptr FILEID="Digital_165_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="166" ORDERLABEL="[]"><mets:fptr FILEID="Digital_166_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="167" ORDERLABEL="[]"><mets:fptr FILEID="Digital_167_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="168" ORDERLABEL="[]"><mets:fptr FILEID="Digital_168_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="169" ORDERLABEL="[]"><mets:fptr FILEID="Digital_169_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="170" ORDERLABEL="[]"><mets:fptr FILEID="Digital_170_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="171" ORDERLABEL="[]"><mets:fptr FILEID="Digital_171_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="172" ORDERLABEL="[]"><mets:fptr FILEID="Digital_172_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="173" ORDERLABEL="[]"><mets:fptr FILEID="Digital_173_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="174" ORDERLABEL="[]"><mets:fptr FILEID="Digital_174_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="175" ORDERLABEL="[]"><mets:fptr FILEID="Digital_175_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="176" ORDERLABEL="[]"><mets:fptr FILEID="Digital_176_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="177" ORDERLABEL="[]"><mets:fptr FILEID="Digital_177_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="178" ORDERLABEL="[]"><mets:fptr FILEID="Digital_178_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="179" ORDERLABEL="[]"><mets:fptr FILEID="Digital_179_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="180" ORDERLABEL="[]"><mets:fptr FILEID="Digital_180_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="181" ORDERLABEL="[]"><mets:fptr FILEID="Digital_181_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="182" ORDERLABEL="[]"><mets:fptr FILEID="Digital_182_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="183" ORDERLABEL="[]"><mets:fptr FILEID="Digital_183_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="184" ORDERLABEL="[]"><mets:fptr FILEID="Digital_184_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="185" ORDERLABEL="[]"><mets:fptr FILEID="Digital_185_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="186" ORDERLABEL="[]"><mets:fptr FILEID="Digital_186_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="187" ORDERLABEL="[]"><mets:fptr FILEID="Digital_187_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="188" ORDERLABEL="[]"><mets:fptr FILEID="Digital_188_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="189" ORDERLABEL="[]"><mets:fptr FILEID="Digital_189_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="190" ORDERLABEL="[]"><mets:fptr FILEID="Digital_190_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="191" ORDERLABEL="[]"><mets:fptr FILEID="Digital_191_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="192" ORDERLABEL="[]"><mets:fptr FILEID="Digital_192_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="193" ORDERLABEL="[]"><mets:fptr FILEID="Digital_193_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="194" ORDERLABEL="[]"><mets:fptr FILEID="Digital_194_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="195" ORDERLABEL="[]"><mets:fptr FILEID="Digital_195_screen"/></mets:div>
+                <mets:div TYPE="page" ORDER="196" ORDERLABEL="[]"><mets:fptr FILEID="Digital_196_screen"/></mets:div>
+            </mets:div>
+            <mets:div LABEL="_printable_view">
+                <mets:div TYPE="book"><mets:fptr FILEID="VIGI1_Digital_printable"/></mets:div>
+            </mets:div>
+        </mets:div>  
+    </mets:structMap>
+</mets:mets>
